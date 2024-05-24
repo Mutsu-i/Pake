@@ -22,7 +22,7 @@ tauri-plugin-window-state = { git = "https://github.com/tauri-apps/plugins-works
 tauri-plugin-oauth = { git = "https://github.com/FabianLars/tauri-plugin-oauth", branch = "main" }
 
 [dev-dependencies]
-cargo-bloat = "0.11.1"
+cargo-bloat = "0.12.1"
 
 [features]
 # this feature is used for development builds from development cli
