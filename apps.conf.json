@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "name": "programmusic",
-      "title": "ProgramMusic",
+      "name": "Snow",
+      "title": "Service Now",
       "name_zh": "ProgramMusic",
-      "url": "https://musicforprogramming.net/"
+      "url": "https://bausch.service-now.com/now/sow"
     },
     {
       "name": "twitter",
